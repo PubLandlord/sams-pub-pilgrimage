@@ -1,1 +1,1 @@
-
+console.log("Sam's Pub Pilgrimage loaded.");
